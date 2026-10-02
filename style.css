@@ -13,13 +13,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #3B2A1E;             /* marrom escuro (texto) */
-    background-color: #FFF8F0;  /* creme (fundo) */
+    color: #22007e;             /* marrom escuro (texto) */
+    background-color: hsl(227, 100%, 89%);  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #6a85df;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
@@ -53,7 +53,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #A0521A;
+    border-left: 4px solid ;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #FDEEDC;
